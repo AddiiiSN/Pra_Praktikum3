@@ -45,8 +45,8 @@
               System.out.println("Alamat : " + getAlamat());
           }
       }
-      
-###
+     
+     
 ### Membuat Subclass Mahasiswa
       public class Mahasiswa extends Manusia {
           private int nim;
@@ -98,4 +98,6 @@
               }
 
       }
+      
+      
 ![Screenshot (12)](https://user-images.githubusercontent.com/115928747/199939702-2f792227-51d7-4c28-8185-ba7274050657.png)
